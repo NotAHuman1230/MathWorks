@@ -1,0 +1,1 @@
+The codebase for the competition. If your working on a model, just add the folder of the name of the model and (WIP) so that other people won't be working on the same model at once accidently. Feel free to edit other people's models making sure to add your reason why in the commits. For your test CSV, name those files "Data.csv"
